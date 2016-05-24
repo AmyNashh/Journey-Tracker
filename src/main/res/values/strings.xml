@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Journey Tracker</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBx00wO-g_TR8FCS8c69r1tYsC1rYttLOU</string>
+</resources>
