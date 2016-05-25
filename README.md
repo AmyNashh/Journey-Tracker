@@ -1,6 +1,6 @@
 # Journey-Tracker
 
-This application allows the user to Register and Login with their details and record journeys in distance, time and location while choosing a form of transport. These journeys can later be viewed with the start and stop position on google maps.
+This android application allows the user to Register and Login with their details and record journeys in distance, time and location while choosing a form of transport. These journeys can later be viewed with the start and stop position on google maps.
 
 - MainActivity: <br />
 The user is given the option to register or login to the app.
